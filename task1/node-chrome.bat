@@ -1,6 +1,3 @@
-[12:00 PM] Anna Mkrtchyan
-
-
 :: Beginning of hub batch file
 set SERVER_VERSION=3.141.59
 set HUB_PORT=5557
